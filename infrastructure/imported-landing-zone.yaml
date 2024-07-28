@@ -1,9 +1,9 @@
-apiVersion: platform.envato.dev/v1alpha1
-kind: ImportedLandingZone
-metadata:
-  name: domain-landing-zone
-  namespace: envato
-  annotations:
-    crossplane.io/external-name: vpc-0201e86fae9141918
-spec:
-  region: "us-east-1"
+# apiVersion: platform.envato.dev/v1alpha1
+# kind: ImportedLandingZone
+# metadata:
+#   name: domain-landing-zone
+#   namespace: envato
+#   annotations:
+#     crossplane.io/external-name: vpc-0201e86fae9141918
+# spec:
+#   region: "us-east-1"

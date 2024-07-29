@@ -1,7 +1,7 @@
-# apiVersion: platform.envato.dev/v1alpha1
-# kind: LandingZone
-# metadata:
-#   name: domain-new-landing-zone
-#   namespace: envato
-# spec:
-#   region: "us-east-1"
+apiVersion: platform.envato.dev/v1alpha1
+kind: LandingZone
+metadata:
+  name: domain-new-landing-zone
+  namespace: envato
+spec:
+  region: "us-east-1"
